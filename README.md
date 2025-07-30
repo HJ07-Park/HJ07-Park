@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **HJ07-Park/HJ07-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=HJ07-Park)](https://github.com/marshallku/gitgarden)
